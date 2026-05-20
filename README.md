@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Leetcode-Problems
-=======
 # LeetCode Practice
 
 Daily DSA practice in Python, organized by topic.
@@ -20,4 +17,3 @@ Daily DSA practice in Python, organized by topic.
 - sliding-window
 - heap-priority-queue
 - math-bit-manipulation
->>>>>>> 986b397 (Initial structure)
